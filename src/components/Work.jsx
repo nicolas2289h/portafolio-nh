@@ -57,7 +57,7 @@ const Work = () => {
                 </div>
               </a>
 
-              <a href='https://pagina-web-servicios.vercel.app/' rel='noreferrer noopener' target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[31.5%] lg:h-[180px] cursor-pointer' >
+              <a href='https://nh-employees.vercel.app/' rel='noreferrer noopener' target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[31.5%] lg:h-[180px] cursor-pointer' >
                 <div className='group-hover:bg-black/80 w-full h-full absolute z-40 transition-all duration-300'></div>
                 <img className='group-hover:scale-110 transition-all duration-500 lg:h-[180px] object-cover' src={ImgGestor} alt="" />
                 <div className='absolute -bottom-full left-4 group-hover:bottom-20 transition-all duration-500 z-50'>
@@ -133,7 +133,7 @@ const Work = () => {
             viewport={{ once: false, amount: 0.3 }}>
 
             <div className='flex gap-4 lg:mb-0 lg:flex-row flex-col lg:mt-0 mt-4'>
-              <a href='https://nh-employees.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[34.4%] lg:h-[180px] '>
+              {/* <a href='https://pagina-web-servicios.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[34.4%] lg:h-[180px] '>
                 <div className='group-hover:bg-black/80 w-full h-full absolute z-40 transition-all duration-300'></div>
                 <img className='group-hover:scale-110 transition-all duration-500 lg:h-[180px] object-cover' src={ImgPaginaWeb} alt="" />
                 <div className='absolute -bottom-full left-4 group-hover:bottom-20 transition-all duration-500 z-50'>
@@ -142,9 +142,9 @@ const Work = () => {
                 <div className='absolute -bottom-full left-4 group-hover:bottom-9 transition-all duration-700 z-50'>
                   <span className='text-md font-semibold'>#HTML #CSS #Javascript</span>
                 </div>
-              </a>
+              </a> */}
 
-              <a href='https://juego-de-memoria-blond.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[34.4%] lg:h-[180px] '>
+              <a href='https://juego-de-memoria-blond.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[34.8%] lg:h-[180px] '>
                 <div className='group-hover:bg-black/80 w-full h-full absolute z-40 transition-all duration-300'></div>
                 <img className='group-hover:scale-110 transition-all duration-500 lg:h-[180px] object-cover' src={ImgJuegoJs} alt="" />
                 <div className='absolute -bottom-full left-4 group-hover:bottom-20 transition-all duration-500 z-50'>
@@ -155,7 +155,7 @@ const Work = () => {
                 </div>
               </a>
 
-              <a href='https://nh-calculadora.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[34.4%] lg:h-[180px] '>
+              <a href='https://nh-calculadora.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[35.4%] lg:h-[180px] '>
                 <div className='group-hover:bg-black/80 w-full h-full absolute z-40 transition-all duration-300'></div>
                 <img className='group-hover:scale-110 transition-all duration-500 lg:h-[180px] object-cover' src={ImgCalculadora} alt="" />
                 <div className='absolute -bottom-full left-4 group-hover:bottom-20 transition-all duration-500 z-50'>
@@ -166,7 +166,7 @@ const Work = () => {
                 </div>
               </a>
 
-              <a href='https://pagina-web-responsive.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[34.4%] lg:h-[180px] '>
+              {/* <a href='https://pagina-web-responsive.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[34.4%] lg:h-[180px] '>
                 <div className='group-hover:bg-black/80 w-full h-full absolute z-40 transition-all duration-300'></div>
                 <img className='group-hover:scale-110 transition-all duration-500 lg:h-[180px] object-cover' src={ImgPagServicios} alt="" />
                 <div className='absolute -bottom-full left-4 group-hover:bottom-20 transition-all duration-500 z-50'>
@@ -175,7 +175,7 @@ const Work = () => {
                 <div className='absolute -bottom-full left-4 group-hover:bottom-10 transition-all duration-700 z-50'>
                   <span className='text-md font-semibold'>#HTML #CSS #Javascript</span>
                 </div>
-              </a>
+              </a> */}
             </div>
           </motion.div>
 
