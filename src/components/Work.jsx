@@ -5,9 +5,7 @@ import { fadeIn } from '../variants'
 import ImgTodolist from '../assets/img-work/img-todolist.png'
 import ImgClima from '../assets/img-work/img-clima.png'
 import ImgCifrado from '../assets/img-work/img-cifrado.png'
-import ImgPagServicios from '../assets/img-work/img-pagina-servicios.png'
-import ImgTiendaVirtual from '../assets/img-work/img-tienda-virtual.png'
-import ImgPaginaWeb from '../assets/img-work/img-pagina-web.png'
+import ImgWebGames from '../assets/img-work/img-webgames.png'
 import ImgReservas from '../assets/img-work/img-meriendas.png'
 import ImgDashboard from '../assets/img-work/img-dashboard.png'
 import ImgJuegoJs from '../assets/img-work/img-juego-memoria.png'
@@ -63,8 +61,8 @@ const Work = () => {
                 <div className='absolute -bottom-full left-4 group-hover:bottom-20 transition-all duration-500 z-50'>
                   <span className='text-md font-semibold'>Sistema de Gestion de Empleados con operaciones CRUD</span>
                 </div>
-                <div className='absolute -bottom-full left-4 group-hover:bottom-10 transition-all duration-700 z-50'>
-                  <span className='text-md font-semibold'>#React #SpringBoot #Boostrap</span>
+                <div className='absolute -bottom-full left-4 group-hover:bottom-3 transition-all duration-700 z-50'>
+                  <span className='text-md font-semibold'>#React #Java #SpringBoot #Boostrap</span>
                 </div>
               </a>
             </div>
@@ -78,14 +76,14 @@ const Work = () => {
             viewport={{ once: false, amount: 0.3 }}>
 
             <div className='flex gap-4 lg:mb-0 lg:flex-row flex-col lg:mt-0 mt-4'>
-              <a href='https://carrito-compras-pi.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[40%] lg:h-[180px] '>
+              <a href='https://nh-webgames.vercel.app/' rel="noopener noreferrer" target='blank' className='group relative overflow-hidden border-2 border-white/50 rounded-md lg:w-[40%] lg:h-[180px] '>
                 <div className='group-hover:bg-black/80 w-full h-full absolute z-40 transition-all duration-300'></div>
-                <img className='group-hover:scale-110 transition-all duration-500 lg:h-[180px] object-cover' src={ImgTiendaVirtual} alt="" />
+                <img className='group-hover:scale-110 transition-all duration-500 lg:h-[180px] object-cover' src={ImgWebGames} alt="" />
                 <div className='absolute -bottom-full left-4 group-hover:bottom-20 transition-all duration-500 z-50'>
-                  <span className='text-md font-semibold'>Diseño de una Tienda virtual básica con carrito de compras.</span>
+                  <span className='text-md font-semibold'>Diseño de una pagina web para videojuegos</span>
                 </div>
-                <div className='absolute -bottom-full left-4 group-hover:bottom-10 transition-all duration-700 z-50'>
-                  <span className='text-md font-semibold'>#React #CSS</span>
+                <div className='absolute -bottom-full left-4 group-hover:bottom-3 transition-all duration-700 z-50'>
+                  <span className='text-md font-semibold'>#React #Typescript #Tailwind #FramerMotion</span>
                 </div>
               </a>
 

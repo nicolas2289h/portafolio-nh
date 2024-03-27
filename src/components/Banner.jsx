@@ -41,7 +41,7 @@ const Banner = () => {
             whileInView={'show'}
             viewport={{ once: false, amount: 0.7 }}
             className='mb-8 max-w-lg mx-auto lg:mx-0'>
-            Desarrollador Front End de Argentina.
+            Desarrollador Full Stack de Argentina.
           </motion.p>
           <img src="" alt="" />
 
